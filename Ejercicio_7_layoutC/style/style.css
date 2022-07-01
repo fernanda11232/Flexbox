@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+ 
+header {
+    background: salmon;
+    padding: 50px;
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    background: #3caa9b;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.items {
+    margin-right: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 18px 5px 18px 5px;
+}
+
+a:hover {
+    background: white;
+    color: black;
+}
+
+
+.idioma {
+    color: white;
+    padding: 18px 15px 18px 5px;
+    
+    
+
+}
+
+.En:hover{
+    background: white;
+    color: black;
+    padding: 18px 5px 18px 5px;
+}
+
+.Eus:hover:hover{
+    background: white;
+    color: black;
+    padding: 18px 5px 18px 5px;
+}
+
+h2 {
+    padding: 18px 5px 18px 10px 
+}
+
+.Image {
+    padding: 10px 40px 10px 10px;
+    
+}
+
+.text {
+    padding: 0px 0px 0px 10px;
+}
+
+.Imagen {
+    padding: 10px 40px 4px 10px;
+    display: flex; 
+    flex-direction: column;
+    width: 400px;
+
+}
+
+.Container   {
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px 40px 4px 10px;
+    
+
+}
+
+.parrafo {
+    padding: 9px 5px 18px 10px 
+}
+
+.Img1 {
+    padding: 10px 40px 4px 10px;
+    width: 850px;
+
+}
+
+footer {
+    background:rgb(202, 192, 172) ;
+    padding: 10px;
+    text-align: center;
+
+}
+
+p {
+    padding: 15px 40px 4px 10px;
+}
+
+

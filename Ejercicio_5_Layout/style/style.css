@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #706B69;
+    text-align: center;
+    padding: 7px;
+}
+
+main {
+    display: flex;
+    height: 50%;
+    
+   
+}
+
+main nav {
+    background-color: #C1B5B0;
+    width: 25%;
+    
+}
+
+main article {
+    background-color: #827975;
+    width: 50%;
+    padding: 200px;
+ 
+}
+
+main aside {
+    background-color: #C1B5B0;
+    width: 25%;
+}
+
+footer {
+    background-color: #413F3E;
+    text-align: center;
+    padding: 4px;
+    
+}
+
